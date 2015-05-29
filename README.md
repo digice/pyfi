@@ -31,6 +31,6 @@ You must set the root directory of your project in the FileManager utility:
 
 You can then create an Entity object by referring to its ID:
 
-    entity = Entity(1123)
+    entity = pyfi.Entity(1123)
     print(json.dumps(entity.dict(), indent=4, sort_keys=True, separators=(',', ': ')))
 
