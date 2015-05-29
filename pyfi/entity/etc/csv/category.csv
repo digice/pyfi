@@ -1,0 +1,98 @@
+100,AAL,Aggressive Allocation
+101,BKL,Bank Loan
+102,BRM,Bear Market
+103,CHR,China Region
+104,CAG,Commodities Agriculture
+105,CBB,Commodities Broad Basket
+106,COE,Commodities Energy
+107,CIM,Commodities Industrial Metals
+108,CMM,Commodities Miscellaneous
+109,CPM,Commodities Precious Metals
+110,COM,Communications
+111,CNS,Conservative Allocation
+112,CCY,Consumer Cyclical
+113,CDF,Consumer Defensive
+114,CNV,Convertibles
+115,CPB,Corporate Bond
+116,DEM,Diversified Emerging Mkts
+117,DPA,Diversified Pacific/Asia
+118,EMB,Emerging Markets Bond
+119,ELP,Energy Limited Partnership
+120,EQE,Equity Energy
+121,EPM,Equity Precious Metals
+122,EUR,Europe Stock
+123,FIN,Financial
+124,FLB,Foreign Large Blend
+125,FLG,Foreign Large Growth
+126,FLV,Foreign Large Value
+127,FSB,Foreign Small/Mid Blend
+128,FSG,Foreign Small/Mid Growth
+129,FSV,Foreign Small/Mid Value
+130,GRE,Global Real Estate
+131,HEA,Health
+132,HYB,High Yield Bond
+133,HYM,High Yield Muni
+134,IDA,India Equity
+135,IND,Industrials
+136,IPB,Inflation-Protected Bond
+137,IGV,Intermediate Government
+138,ITB,Intermediate-Term Bond
+139,JSK,Japan Stock
+140,LBL,Large Blend
+141,LGR,Large Growth
+142,LVA,Large Value
+143,LAT,Latin America Stock
+144,LGG,Long Government
+145,LTB,Long-Term Bond
+146,LSE,Long/Short Equity
+147,MGF,Managed Futures
+148,MNU,Market Neutral
+149,MCB,Mid-Cap Blend
+150,MCG,Mid-Cap Growth
+151,MCV,Mid-Cap Value
+152,MRG,Miscellaneous Region
+153,MSC,Miscellaneous Sector
+154,MOD,Moderate Allocation
+155,MUA,Multialternative
+156,MUC,Multicurrency
+157,MCI,Muni California Intermediate
+158,MCL,Muni California Long
+159,MNI,Muni National Interm
+160,MNL,Muni National Long
+161,MNS,Muni National Short
+162,NYI,Muni New York Intermediate
+163,NYL,Muni New York Long
+164,NRS,Natural Resources
+165,NTB,Nontraditional Bond
+166,PAS,Pacific/Asia ex-Japan Stk
+167,PRF,Preferred Stock
+168,RES,Real Estate
+169,RET,Retirement Income
+170,SGV,Short Government
+171,STB,Short-Term Bond
+172,SCU,Single Currency
+173,SBL,Small Blend
+174,SGR,Small Growth
+175,SVA,Small Value
+176,TAC,Tactical Allocation
+177,TTT,Target Date 2016-2020
+178,TTH,Target Date 2026-2030
+179,TTF,Target Date 2036-2040
+180,TEC,Technology
+181,TIC,Trading-Inverse Commodities
+182,TID,Trading-Inverse Debt
+183,TIE,Trading-Inverse Equity
+184,TLC,Trading-Leveraged Commodities
+185,XXW,NULL
+186,XXX,NULL
+187,XXY,NULL
+188,XXZ,NULL
+189,TLD,Trading-Leveraged Debt
+190,TLE,Trading-Leveraged Equity
+191,TMS,Trading-Miscellaneous
+192,USB,Ultrashort Bond
+193,UTI,Utilities
+194,VOL,Volatility
+195,WOA,World Allocation
+196,WOB,World Bond
+197,WOS,World Stock
