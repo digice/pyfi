@@ -3,13 +3,14 @@
 from distutils.core import setup
 
 setup(name='pyfi',
-      version='0.0.7',
+      version='0.0.8',
       description='Financial Data Mining App for Python',
       url='http://pyfiapp.com',
       author='Roderic Linguri',
       author_email='rlinguri@mac.com',
       license='MIT',
-      packages=['pyfi.entity',
+      packages=['pyfi',
+                'pyfi.entity',
                 'pyfi.entity.entity',
                 'pyfi.entity.category',
                 'pyfi.entity.exchange',
