@@ -18,11 +18,11 @@ class Calendar(pyfwk.Object):
         self.month = month
         self.day = day
         model = CalendarModel.instance()
-        rec = model.get_rec_from_dated(year, month, day)
-        self.id = rec['id']
-        self.weekday = rec['weekday']
-        self.session = rec['session']
-        self.mktopen = rec['mktopen']
+        rec = model.get_rec_from_date(year, month, day)
+        self.id = rec[0]
+        self.weekday = rec[4]
+        self.session = rec[5]
+        self.mktopen = rec[6]
 
 
 # ----------------------------------MAIN----------------------------------#
