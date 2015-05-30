@@ -43,3 +43,17 @@ pyfi/entity/sector/object.py
 pyfi/entity/type/__init__.py
 pyfi/entity/type/model.py
 pyfi/entity/type/object.py
+pyfi/yhapi/__init__.py
+pyfi/yhapi/averages/__init__.py
+pyfi/yhapi/averages/object.py
+pyfi/yhapi/dividend/__init__.py
+pyfi/yhapi/dividend/object.py
+pyfi/yhapi/fundamentals/__init__.py
+pyfi/yhapi/fundamentals/object.py
+pyfi/yhapi/quote/__init__.py
+pyfi/yhapi/quote/object.py
+pyfi/yhapi/range/__init__.py
+pyfi/yhapi/range/object.py
+pyfi/yhapi/result/__init__.py
+pyfi/yhapi/result/data.py
+pyfi/yhapi/result/object.py
