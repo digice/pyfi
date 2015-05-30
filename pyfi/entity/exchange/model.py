@@ -5,6 +5,7 @@ import pyfwk
 
 from pyfi.entity.entity.db import EntityDB
 
+
 # -----------------------------EXCHANGE-MODEL-----------------------------#
 class ExchangeModel(pyfwk.Model):
     model = None

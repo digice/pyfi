@@ -3,6 +3,7 @@
 import pyfwk
 from pyfi.entity.entity.db import EntityDB
 
+
 # -----------------------------CATEGORY-MODEL-----------------------------#
 class CategoryModel(pyfwk.Model):
     model = None

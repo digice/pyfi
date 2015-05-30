@@ -3,6 +3,7 @@
 import pyfwk
 from pyfi.calendar.session.model import SessionModel
 
+
 # ----------------------------CATEGORY-OBJECT-----------------------------#
 class Session(pyfwk.Object):
     id = None
@@ -12,15 +13,15 @@ class Session(pyfwk.Object):
     weekday = None
     calendar = None
 
-    def __init__(self, year, month, day):
-        self.year = year
-        self.month = month
-        self.day = day
+    def __init__(self, id):
+        self.id = id
         model = SessionModel.instance()
-        rec = model.get_rec_from_date(year, month, day)
-        self.id = rec[0]
-        self.weekday = rec[4]
-        self.calendar = rec[5]
+        rec = model.get_rec_from_id(id)
+        self.year = rec['year']
+        self.month = rec['month']
+        self.day = rec['day']
+        self.weekday = rec['weekday']
+        self.calendar = rec['calendar']
 
 
 # ----------------------------------MAIN----------------------------------#

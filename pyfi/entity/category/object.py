@@ -3,6 +3,7 @@
 import pyfwk
 from pyfi.entity.category.model import CategoryModel
 
+
 # ----------------------------CATEGORY-OBJECT-----------------------------#
 class Category(pyfwk.Object):
     id = None

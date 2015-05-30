@@ -11,7 +11,7 @@ fm.set_root(os.path.dirname(os.path.dirname(__file__)))
 """
 The first time the following statement is run, the entity module will attempt to
 create the sqlite database and populate with tables. Your project directory will
-need to be writeable for this to occur.
+need to be writeable for this to occur. Please be patient.
 """
 
 entity = pyfi.Entity(1123)

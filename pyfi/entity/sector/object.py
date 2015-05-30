@@ -3,6 +3,7 @@
 import pyfwk
 from pyfi.entity.sector.model import SectorModel
 
+
 # ----------------------------SECTOR-OBJECT-----------------------------#
 class Sector(pyfwk.Object):
     id = None

@@ -5,6 +5,7 @@ from pyfi.entity.habtm.entityfund import EntityFund
 from pyfi.entity.category.object import Category
 from pyfi.entity.fundfamily.object import FundFamily
 
+
 # ------------------------------ETF-PROFILE-------------------------------#
 class ETFProfile(pyfwk.Object):
     entity = None

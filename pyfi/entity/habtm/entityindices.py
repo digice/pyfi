@@ -5,6 +5,7 @@ import pyfwk
 
 from pyfi.entity.entity.db import EntityDB
 
+
 # -----------------------------ENTITY-INDUSTRY----------------------------#
 class EntityIndices(pyfwk.Model):
     model = None

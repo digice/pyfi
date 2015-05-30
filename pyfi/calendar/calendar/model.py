@@ -3,6 +3,7 @@
 import pyfwk
 from pyfi.calendar.calendar.db import CalendarDB
 
+
 # -----------------------------CATEGORY-MODEL-----------------------------#
 class CalendarModel(pyfwk.Model):
     model = None

@@ -5,6 +5,7 @@ import pyfwk
 
 from pyfi.entity.entity.db import EntityDB
 
+
 # -------------------------------ENTITY-FUND------------------------------#
 class EntityFund(pyfwk.Model):
     model = None

@@ -3,4 +3,4 @@
 from pyfi.calendar.calendar import *
 from pyfi.calendar.session import *
 
-__all__ = ['Calendar','Session']
+__all__ = ['Calendar', 'Session']

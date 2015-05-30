@@ -3,6 +3,7 @@
 import pyfwk
 from pyfi.entity.entity.db import EntityDB
 
+
 # ------------------------------INDICES-MODEL-----------------------------#
 class IndicesModel(pyfwk.Model):
     model = None

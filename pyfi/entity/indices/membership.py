@@ -3,19 +3,20 @@
 
 # ---------------------------INDICES-MEMBERSHIP----------------------------#
 class IndicesMembership:
-    '''
+    """
       override dict method to provide a list of indices
-    '''
+    """
     lst = None
 
-    def __init__(self,lst):
-      self.lst = lst
+    def __init__(self, lst):
+        self.lst = lst
 
     def dict(self):
-      lst = []
-      for obj in self.lst:
-        lst.append(obj.dict())
-      return lst
+        lst = []
+        for obj in self.lst:
+            lst.append(obj.dict())
+        return lst
+
 
 # ----------------------------------MAIN----------------------------------#
 def main():

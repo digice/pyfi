@@ -3,6 +3,7 @@
 import pyfwk
 from pyfi.entity.fundfamily.model import FundFamilyModel
 
+
 # ---------------------------FUND-FAMILY-OBJECT---------------------------#
 class FundFamily(pyfwk.Object):
     id = None
@@ -23,4 +24,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

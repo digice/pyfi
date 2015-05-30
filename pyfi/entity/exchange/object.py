@@ -3,6 +3,7 @@
 import pyfwk
 from pyfi.entity.exchange.model import ExchangeModel
 
+
 # ----------------------------EXCHANGE-OBJECT-----------------------------#
 class Exchange(pyfwk.Object):
     id = None
@@ -15,4 +16,3 @@ class Exchange(pyfwk.Object):
         rec = model.get_rec_from_id(id)
         self.symbol = rec['symbol']
         self.name = rec['name']
-

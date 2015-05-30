@@ -8,6 +8,7 @@ from pyfi.entity.sector.object import Sector
 from pyfi.entity.indices.object import Indices
 from pyfi.entity.indices.membership import IndicesMembership
 
+
 # -----------------------------STOCK-PROFILE------------------------------#
 class StockProfile(pyfwk.Object):
     entity = None
