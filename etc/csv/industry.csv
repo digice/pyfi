@@ -1,0 +1,212 @@
+100,1,Agricultural Chemicals
+101,1,Aluminum
+102,1,Chemicals - Major Diversified
+103,1,Copper
+104,1,Gold
+105,1,Independent Oil and Gas
+106,1,Industrial Metals and Minerals
+107,1,Major Integrated Oil and Gas
+108,1,Nonmetallic Mineral Mining
+109,1,Oil and Gas Drilling and Exploration
+110,1,Oil and Gas Equipment and Services
+111,1,Oil and Gas Pipelines
+112,1,Oil and Gas Refining and Marketing
+113,1,Silver
+114,1,Specialty Chemicals
+115,1,Steel & Iron
+116,1,Synthetics
+117,2,Conglomerates
+118,3,Appliances
+119,3,Auto Manufacturers - Major
+120,3,Auto Parts
+121,3,Beverages - Brewers
+122,3,Beverages - Soft Drinks
+123,3,Beverages - Wineries and Distillers
+124,3,Business Equipment
+125,3,Cigarettes
+126,3,Cleaning Products
+127,3,Confectioners
+128,3,Dairy Products
+129,3,Electronic Equipment
+130,3,Farm Products
+131,3,Food - Major Diversified
+132,3,Home Furnishings & Fixtures
+133,3,Housewares & Accessories
+134,3,Meat Products
+135,3,Office Supplies
+136,3,Packaging & Containers
+137,3,Paper & Paper Products
+138,3,Personal Products
+139,3,Photographic Equipment & Supplies
+140,3,Processed & Packaged Goods
+141,3,Recreational Goods - Other
+142,3,Recreational Vehicles
+143,3,Rubber & Plastics
+144,3,Sporting Goods
+145,3,Textile - Apparel Clothing
+146,3,Textile - Apparel Footwear & Accessories
+147,3,Tobacco Products - Other
+148,3,Toys & Games
+149,3,Trucks & Other Vehicles
+150,4,Accident & Health Insurance
+151,4,Asset Management
+152,4,Closed-End Fund - Debt
+153,4,Closed-End Fund - Equity
+154,4,Closed-End Fund - Foreign
+155,4,Credit Services
+156,4,Diversified Investments
+157,4,Foreign Money Center Banks
+158,4,Foreign Regional Banks
+159,4,Insurance Brokers
+160,4,Investment Brokerage - National
+161,4,Investment Brokerage - Regional
+162,4,Life Insurance
+163,4,Money Center Banks
+164,4,Mortgage Investment
+165,4,Property & Casualty Insurance
+166,4,Property Management
+167,4,Real Estate Development
+168,4,Regional - Mid-Atlantic Banks
+169,4,Regional - Midwest Banks
+170,4,Regional - Northeast Banks
+171,4,Regional - Pacific Banks
+172,4,Regional - Southeast Banks
+173,4,Regional - Southwest Banks
+174,4,REIT - Diversified
+175,4,REIT - Healthcare Facilities
+176,4,REIT - Hotel/Motel
+177,4,REIT - Industrial
+178,4,REIT - Office
+179,4,REIT - Residential
+180,4,REIT - Retail
+181,4,Savings & Loans
+182,4,Surety & Title Insurance
+183,5,Biotechnology
+184,5,Diagnostic Substances
+185,5,Drug Delivery
+186,5,Drug Manufacturers - Major
+187,5,Drug Manufacturers - Other
+188,5,Drug Related Products
+189,5,Drugs - Generic
+190,5,Health Care Plans
+191,5,Home Health Care
+192,5,Hospitals
+193,5,Long-Term Care Facilities
+194,5,Medical Appliances & Equipment
+195,5,Medical Instruments & Supplies
+196,5,Medical Laboratories & Research
+197,5,Specialized Health Services
+198,6,Aerospace/Defense - Major Diversified
+199,6,Aerospace/Defense Products & Services
+200,6,Cement
+201,6,Diversified Machinery
+202,6,Farm & Construction Machinery
+203,6,General Building Materials
+204,6,General Contractors
+205,6,Heavy Construction
+206,6,Industrial Electrical Equipment
+207,6,Industrial Equipment & Components
+208,6,Lumber & Wood Production
+209,6,Machine Tools & Accessories
+210,6,Manufactured Housing
+211,6,Metal Fabrication
+212,6,Pollution & Treatment Controls
+213,6,Residential Construction
+214,6,Small Tools & Accessories
+215,6,Textile Industrial
+216,6,Waste Management
+217,7,Advertising Agencies
+218,7,Air Delivery & Freight Services
+219,7,Air Services - Other
+220,7,Apparel Stores
+221,7,Auto Dealerships
+222,7,Auto Parts Stores
+223,7,Auto Parts Wholesale
+224,7,Basic Materials Wholesale
+225,7,Broadcasting - Radio
+226,7,Broadcasting - TV
+227,7,Building Materials Wholesale
+228,7,Business Services
+229,7,Catalog & Mail Order Houses
+230,7,CATV Systems
+231,7,Computers Wholesale
+232,7,Consumer Services
+233,7,Department Stores
+234,7,Discount & Variety Stores
+235,7,Drug Stores
+236,7,Drugs Wholesale
+237,7,Education & Training Services
+238,7,Electronics Stores
+239,7,Electronics Wholesale
+240,7,Entertainment - Diversified
+241,7,Food Wholesale
+242,7,Gaming Activities
+243,7,General Entertainment
+244,7,Grocery Stores
+245,7,Home Furnishing Stores
+246,7,Home Improvement Stores
+247,7,Industrial Equipment Wholesale
+248,7,Jewelry Stores
+249,7,Lodging
+250,7,Major Airlines
+251,7,Management Services
+252,7,Marketing Services
+253,7,Medical Equipment Wholesale
+254,7,Movie Production & Theaters
+255,7,Music & Video Stores
+256,7,Personal Services
+257,7,Publishing - Books
+258,7,Publishing - Newspapers
+259,7,Publishing - Periodicals
+260,7,Railroads
+261,7,Regional Airlines
+262,7,Rental & Leasing Services
+263,7,Research Services
+264,7,Resorts & Casinos
+265,7,Restaurants
+266,7,Security & Protection Services
+267,7,Shipping
+268,7,Specialty Eateries
+269,7,Specialty Retail - Other
+270,7,Sporting Activities
+271,7,Sporting Goods Stores
+272,7,Staffing & Outsourcing Services
+273,7,Technical Services
+274,7,Toy & Hobby Stores
+275,7,Trucking
+276,8,Application Software
+277,8,Business Software & Services
+278,8,Communication Equipment
+279,8,Computer Based Systems
+280,8,Computer Peripherals
+281,8,Data Storage Devices
+282,8,Diversified Communication Services
+283,8,Diversified Computer Systems
+284,8,Diversified Electronics
+285,8,Healthcare Information Services
+286,8,Information & Delivery Services
+287,8,Information Technology Services
+288,8,Internet Information Providers
+289,8,Internet Service Providers
+290,8,Internet Software & Services
+291,8,Long Distance Carriers
+292,8,Multimedia & Graphics Software
+293,8,Networking & Communication Devices
+294,8,Printed Circuit Boards
+295,8,Processing Systems & Products
+296,8,Scientific & Technical Instruments
+297,8,Security Software & Services
+298,8,Semiconductor - Broad Line
+299,8,Semiconductor - Integrated Circuits
+300,8,Semiconductor - Specialized
+301,8,Semiconductor Equipment & Materials
+302,8,Semiconductor- Memory Chips
+303,8,Technical & System Software
+304,8,Telecom Services - Domestic
+305,8,Telecom Services - Foreign
+306,8,Wireless Communications
+307,9,Diversified Utilities
+308,9,Electric Utilities
+309,9,Foreign Utilities
+310,9,Gas Utilities
+311,9,Water Utilities
