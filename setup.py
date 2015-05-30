@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='pyfi',
-      version='0.0.8',
+      version='0.0.9',
       description='Financial Data Mining App for Python',
       url='http://pyfiapp.com',
       author='Roderic Linguri',
@@ -21,6 +21,9 @@ setup(name='pyfi',
                 'pyfi.entity.profile',
                 'pyfi.entity.sector',
                 'pyfi.entity.type',
+                'pyfi.calendar',
+                'pyfi.calendar.calendar',
+                'pyfi.calendar.session'
                 ],
       classifiers=[
           "Development Status :: 3 - Alpha",
