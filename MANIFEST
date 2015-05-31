@@ -9,6 +9,9 @@ pyfi/calendar/calendar/object.py
 pyfi/calendar/session/__init__.py
 pyfi/calendar/session/model.py
 pyfi/calendar/session/object.py
+pyfi/calendar/tick/__init__.py
+pyfi/calendar/tick/model.py
+pyfi/calendar/tick/object.py
 pyfi/entity/__init__.py
 pyfi/entity/category/__init__.py
 pyfi/entity/category/model.py
