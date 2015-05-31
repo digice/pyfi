@@ -4,4 +4,4 @@ from pyfi.entity import *
 from pyfi.calendar import *
 from pyfi.yhapi import *
 
-__all__ = ['Entity', 'Calendar', 'Session', 'Result']
+__all__ = ['Entity', 'Calendar', 'Session', 'Tick', 'Result']
