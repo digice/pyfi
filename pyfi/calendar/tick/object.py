@@ -18,8 +18,8 @@ class Tick(pyfwk.Object):
         self.minute = minute
         model = TickModel.instance()
         rec = model.get_rec_from_time(hour, period, minute)
-        self.id = rec['id']
-        self.iso = rec['iso']
+        self.id = rec[0]
+        self.iso = rec[1]
 
 
 # ----------------------------------MAIN----------------------------------#

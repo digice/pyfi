@@ -36,6 +36,20 @@ if (entity is not None):
             session = pyfi.Session(calendar.session)
             if (session is not None):
                 dct['session'] = session.dict()
+                time = result.quote.tradetime
+                tar = str(time).split(':')
+                hour = int(tar[0])
+                post = str(tar[1])
+                mtxt = '{}{}'.format(post[0],post[1])
+                minute = int(mtxt)
+                ptxt = '{}{}'.format(post[2],post[3])
+                if (ptxt.lower() == 'pm'):
+                    period = 1
+                else:
+                    period = 0
+                tick = pyfi.Tick(hour,minute,period)
+                dct['tick'] = tick.dict()
+
 else:
     dct = {'error': 'ID was not recognized'}
 

@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='pyfi',
-      version='0.1.1',
+      version='0.1.2',
       description='Financial Data Mining App for Python',
       url='http://pyfiapp.com',
       author='Roderic Linguri',
